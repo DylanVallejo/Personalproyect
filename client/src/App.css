@@ -1,0 +1,14 @@
+.headerAdmin{
+  display: flex;
+  justify-content: space-between;
+}
+.gTables{
+  background-color: rgb(225, 237, 248);
+}
+.table{
+  width: 100%;
+  height: 100px;
+  /* border-collapse: collapse; */
+  /* border-spacing: 0; */
+  border: 2px  solid rgb(0, 0, 0);
+}

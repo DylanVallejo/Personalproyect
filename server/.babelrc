@@ -1,0 +1,7 @@
+//using babel preset env allows us to use latests js avoiding to transform it in old  sintaxt
+//making our app more compatible with older browsers
+{
+    "presets":[
+        "@babel/preset-env"
+    ]
+}
